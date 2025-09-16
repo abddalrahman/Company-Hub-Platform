@@ -52,3 +52,5 @@ A multi-page static website built using pure HTML and CSS, designed to simulate 
 ## 🔗 Live Preview
 
 View the project live here:
+
+[Kasper Landing Page](https://abddalrahman.github.io/Company-Hub-Platform/)
